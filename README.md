@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @MattiHanninen
 - 👀 I’m interested in ... Programming, coding, game development, game design, music, guitars, singing, videogames
-- 🌱 I’m currently learning ... I'm a second year IT-student, so quite a lot
-- 💞️ I’m looking to collaborate on ... Currently looking for an internship for next summer/fall
+- 🌱 I’m currently learning ... Working in game industry and being a game developer
 - 📫 How to reach me ... https://www.linkedin.com/in/matti-hanninen/
 - You can also check out my portfolio here: https://mattihanninenportfolio.webflow.io/
 
